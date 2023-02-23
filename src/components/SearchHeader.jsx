@@ -17,21 +17,22 @@ export default function SearchHeader() {
   }, [keyword]);
 
   return (
-    <header>
+    <header className="w-full flex p-4 text-2xl border-b border-zinc-600 mb-4">
       {/* 로고+아이콘 */}
-      <Link to="/">
-        <BsYoutube />
-        <h1> YOUTUBE</h1>
+      <Link to="/" className="flex items-center">
+        <BsYoutube className="text-4xl text-brand" />
+        <h1 className="font-bold ml-2 text-3xl"> Youtube</h1>
       </Link>
       {/* 검색창 */}
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="w-full flex justify-center">
         <input
           type="text"
           placeholder="Search ..."
           value={text}
           onChange={(e) => setText(e.target.value)}
+          className="w-7/12 p-2 outline-none bg-black text-gray-50"
         />
-        <button>
+        <button className="bg-zinc-600 px-4">
           <BsSearch />
         </button>
       </form>
