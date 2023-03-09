@@ -1,7 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import React from "react";
 import { useParams } from "react-router-dom";
-import FakeYoutube from "../api/fakeYoutube";
+import FakeYoutube from "../api/fakeYoutubeClient";
 import Youtube, { search } from "../api/youtube";
 import VideoCard from "../components/VideoCard";
 import { useYoutubeApi } from "../context/YoutubeApiContext";

@@ -11,12 +11,13 @@ function App() {
   return (
     <>
       <SearchHeader />
-      <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
+
+      <QueryClientProvider client={queryClient}>
+        <YoutubeApiProvider>
           <Outlet />
-          <ReactQueryDevtools initialIsOpen={false} />
-        </QueryClientProvider>
-      </YoutubeApiProvider>
+          <ReactQueryDevtools initialIsOpen={true} />
+        </YoutubeApiProvider>
+      </QueryClientProvider>
     </>
   );
 }
