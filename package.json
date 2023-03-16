@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@grapecity/spread-sheets": "14.2.5",
+    "@grapecity/spread-sheets-react": "14.2.5",
     "@tanstack/react-query": "^4.24.10",
     "@tanstack/react-query-devtools": "^4.24.10",
     "@testing-library/jest-dom": "^5.14.1",
@@ -14,6 +16,8 @@
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
+    "serve": "^14.2.0",
+    "sserve": "^0.2.5",
     "timeago.js": "^4.0.2",
     "web-vitals": "^2.1.0"
   },

@@ -1,24 +1,1047 @@
 {
-  "error": {
-    "code": 400,
-    "message": "API key not valid. Please pass a valid API key.",
-    "errors": [
-      {
-        "message": "API key not valid. Please pass a valid API key.",
-        "domain": "global",
-        "reason": "badRequest"
+  "kind": "youtube#searchListResponse",
+  "etag": "oyB8RZv_AGIWBtCuPtQJXhqaScE",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SwZJV3D19EmELvdLNISnmAqXaW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVTy_wmn5SU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T09:02:10Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)",
+        "description": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T09:02:10Z"
       }
-    ],
-    "status": "INVALID_ARGUMENT",
-    "details": [
-      {
-        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
-        "reason": "API_KEY_INVALID",
-        "domain": "googleapis.com",
-        "metadata": {
-          "service": "youtube.googleapis.com"
-        }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ntJlpTjvFqe2EBtlofStovgW714",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4vbDFu0PUew"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T17:10:11Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "LE SSERAFIM FEARLESS OFFICIAL M/V",
+        "description": "Creative Director : NU KIM\n\nVisual Creative : Yujoo Kim, Gabriel Cho, Yoon Cho, Sungwoong Moon\n\nPerformance Director : Soyeon Park\nPerformance Assistant : Soyoung Yoon\nA&R : Kyuyoung Kim, Sewon Kim\n\nDirector : Guzza (KUDO)\nAssistant Director : Hyunhee Lim, Yeseul Jang\nPA : Kookki Kim, Jinyoung Yang, Taeeun Kim, Jinhee Park\nProduction Team : SSUPORT\n\nDirector of Photography : Eumko\nFocus Puller : Youngwoo Lee\n2nd AC : Eunil Lee\n3rd AC : Donghyeon Lee\nDIT : Yuntae Go\n\nDirector of Photography : SangWoo Yun\nFocus Puller : Sungju Min\n2nd : Jimin Kim\n3rd : Yeoeun Ahn\nDIT : Minju Yu\n\nJimmy Jib Operator : Youngjung Kim\nJimmy Jib Assistant : Hyunin Kim, Seokchan Lee\n\nTechnocrane Operator : Sangjo Lee, Taehyeon Choi\nTechnocrane Assistant : Yonggeun Hwang, Doyun Kim, Junwhan Ahn, Jisu Woo, Hakseo Kim, Nakdu Kim\n\nGaffer : Junghyeok Jeong\nLighting Crew : Jeseung Han, Hyunseok Kim, HwaYong Jeong, ByungJong Kim, DongYun Shin, Jisup Choi, Johan Cho\n\nProduction designer/Art director : JINSIL & BONA (@Mu:E)\nAssistant Art team : Ayeong Choi, Jieun Yoon (@Mu:E)\nArt-team Manager : Ilho Heo (@Mu:E)\n\nSpecial effects : JEIL.M.S\n\nStunt coordinator : Yoonheon Jung (@J CREATION)\nStunt team : Minwoo Seo, Minhyeok Choi, Mingyu Yoon, TaeKyung Kim, Yoosik Shin, Kangyoung Lee, Seongmin Lee\n\nVFX STUDIO : SECOND FLOOR\nVFX Supervisor : Daeyoung Byun\n2D Composite : Ayoung Lee, Youngjun Ko, Cheayoung Kim\nFx Artist : Hyeju Kang, Geoyoung You\nMADBLAC : Jaejung Heo, Sungmin Kim\nProject Manager : Seoyun Kim\n\nDI : LUCID COLOUR\nColorist : Wonseok Ko\nDI Crew : Jaeyeon Baek, Dain Kim, Serae Hong\nDI Producer: Sooyun Hyun\n\nSOURCE MUSIC. Rights are reserved selectively in the video.\nUnauthorized reproduction is a violation of applicable laws.\nManufactured by SOURCE MUSIC, Seoul, Korea\n\nConnect with LE SSERAFIM\nOFFICIAL YOUTUBE https://www.youtube.com/channel/UCs-QBT4qkj_YiQw1ZntDO3g\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK  https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vbDFu0PUew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vbDFu0PUew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vbDFu0PUew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vbDFu0PUew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vbDFu0PUew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T17:10:11Z"
       }
-    ]
-  }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RuFfp1AHCnWsxcfD0aEJJrPQfuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bwmSjveL3Lc"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-08T11:01:26Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - '붐바야 (BOOMBAYAH)' M/V",
+        "description": "BLACKPINK - 붐바야 (BOOMBAYAH)\n\nBLACKPINK in your area\nBLACKPINK in your area\nBeen a bad girl I know I am\nAnd I'm so hot I need a fan\nI don't want a boy I need a man\nClick-Clack\nBadda bing badda booom\n문을 박차면 모두 날 바라봄\n굳이 애써 노력 안 해도\n모든 남자들은 코피가 팡팡팡\n팡팡 파라파라 팡팡팡\n지금 날 위한 축배를 짠짠짠\nHands up\n내 손엔\nbottle full o' henny\n네가 말로만 듣던 걔가 나야\nJennie\n춤추는 불빛은 날 감싸고 도네\nBlack to the pink\n어디서든 특별해 Oh yes\n쳐다 보든 말든\nI wanna dance Like\n따라다라단딴 따라다라단딴\n뚜두룹바우\n좋아 이 분위기가 좋아\n좋아 난 지금 네가 좋아\n정말 반했어\n오늘 밤 너와 춤추고 싶어\nBOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH YAH\nBOOM BOOM BA\nBOOM BOOM BA 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH YAH\nBOOM BOOM BA BOOMBAYAH\nBLACKPINK in your area\n이제 달려야지 뭘 어떡해\n난 철 없어 겁 없어 man\nMiddle finger up F U pay me\n90's baby I pump up the jam\n달려봐 달려봐 오빠야\nLAMBO\n오늘은 너와 나 젊음을\nGAMBLE\n감히 날 막지마\n혹시나 누가 날 막아도\nI'm gonna go Brrrr RAMBO\n네 손이 내 허리를 감싸고 도네\nFront to my back\n내 몸매는 특별해 Oh yes\n네 눈빛은\nI know you wanna touch\nLike Touch touch touch touch\n뚜두룹바우\n좋아 이 분위기가 좋아\n좋아 난 지금 네가 좋아\n정말 멋있어\n오늘 밤 너와 춤추고 싶어\nBOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH BOOMBAYAH\nYAH YAH YAH YAH\nBOOM BOOM BA\nBOOM BOOM BA 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH 오빠\nYAH YAH YAH YAH YAH YAH\nYAH YAH YAH YAH\nYAH YAH YAH YAH YAH YAH YAH\nBOOM BOOM BA BOOMBAYAH\n오늘은 맨 정신 따윈 버리고\n하늘을 넘어서 올라 갈 거야\n끝을 모르게 빨리 달리고 싶어\nLet's go let's go\n오늘은 맨 정신 따윈 버리고\n하늘을 넘어서 올라 갈 거야\n끝을 모르게 빨리 달리고 싶어\nLet's go let's go\n\nAvailable @ https://BLACKPINK.lnk.to/SQUAREONEFA\n\n#‎BLACKPINK #‎붐바야 #‎BOOMBAYAH #‎DEBUTSINGLE #‎SQUAREONE #‎DEBUT #‎YG\n\nMore about BLACKPINK @ \nhttp://blackpinkofficial.com\nhttps://www.facebook.com/BLACKPINKOFFICIAL/\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttp://www.instagram.com/BLACKPINKOFFICIAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bwmSjveL3Lc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-08T11:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DIq4qNr8slkahz3x-1bmLRLNJ14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OvioeS1ZZ7o"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-16T03:32:54Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "Stray Kids \"MANIAC\" M/V",
+        "description": "Stray Kids(스트레이 키즈) \"MANIAC\" M/V\n\nStray Kids \"ODDINARY\"\niTunes & Apple Music: https://apple.co/3IqqKml\nSpotify: https://spoti.fi/3ijBk40\n\n✅ Listen to ＜ODDINARY＞ now!\nhttp://Stray-Kids.lnk.to/ODDINARY\n\nStray Kids Official YouTube: https://www.youtube.com/c/StrayKids\nStray Kids Official Facebook: https://www.facebook.com/JYPEStrayKids/\nStray Kids Official Instagram: https://www.instagram.com/realstraykids/\nStray Kids Official Twitter: https://twitter.com/Stray_Kids\nStray Kids Official TikTok: https://www.tiktok.com/@jypestraykids\nStray Kids Official Fan's: https://fans.jype.com/StrayKids\n\n#StrayKids #스트레이키즈\n#ODDINARY\n#MANIAC #MANIAC_SKZ\n#StrayKidsComeback\n#YouMakeStrayKidsStay\n\nCopyrights 2022 ⓒ JYP Entertainment. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OvioeS1ZZ7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OvioeS1ZZ7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OvioeS1ZZ7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OvioeS1ZZ7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-16T03:32:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ExFXqFyfQ0y5MlIVY5k82gYtpQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dzwuR99Ry98"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T07:58:20Z",
+        "channelId": "UCs-QBT4qkj_YiQw1ZntDO3g",
+        "title": "LE SSERAFIM (르세라핌) ‘ANTIFRAGILE’ Special Performance Video",
+        "description": "#LE_SSERAFIM #르세라핌 공식 채널\n#LE_SSERAFIM #르세라핌 OFFICIAL CHANNEL\n\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL V LIVE https://www.vlive.tv/channel/818FB5\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LE SSERAFIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T07:58:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gFMtDZ1V1WuRtEPrysv8m6sSBwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jh4QFaPmdss"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-14T02:53:39Z",
+        "channelId": "UCritGVo7pLJLUS8wEu32vow",
+        "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video",
+        "description": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video\n\nComposed by 소연, Pop Time, JENCI\nLyrics by 소연\nArranged by Pop Time, JENCI, 소연\n\nLook at you 넌 못 감당해 날\nYa took off hook\n기분은 Coke like brrr\nLook at my toe 나의 Ex 이름 Tattoo\nI got to drink up now 네가 싫다 해도 좋아\n\nWhy are you cranky, boy?\n뭘 그리 찡그려 너\nDo you want a blond barbie doll?\nIt’s not here, I’m not a doll\n\n미친 연이라 말해 What’s the loss to me ya\n사정없이 까보라고 You’ll lose to me ya\n사랑 그깟 거 따위 내 몸에 상처 하나도 어림없지\n너의 썩은 내 나는 향수나 뿌릴 바엔\n\nYe I’m a Tomboy (Umm ah umm)\nYe I’ll be the Tomboy (Umm ah)\nThis is my attitude\nYe I’ll be the Tomboy\n\nI don’t wanna play this ping pong\nI would rather film a Tik Tok\nYour mom raised you as a prince\nBut this is queendom, right?\nI like dancing, I love ma friends\nSometimes we swear without cigarettes\nI like to eh on drinking whiskey\nI won’t change it, what the hell?\n\n미친 척이라 말해 What’s the loss to me ya\n사정없이 씹으라고 You’re lost to me ya\n사랑 그깟 거 따위 내 눈에 눈물 한 방울 어림없지\n너의 하찮은 말에 미소나 지을 바엔\n\nYe I’m a Tomboy (Umm ah umm)\nYe I’ll be the Tomboy (Umm ah)\nThis is my attitude\nYe I’ll be the Tomboy\n\nSaid you get it?\nYou get the song right, you’ll get what I mean “Tomboy”\n\nLa la la la la la la la la\nLa la la la la la la la la\n\nLa la la la la la la la la\nLa la la la la la la la la\n(Three, two, one)\n\nIt’s neither man nor woman\nMan nor woman\nIt’s neither man nor woman\n(Just me I-DLE)\n\nIt’s neither man nor woman\nMan nor woman\nIt’s neither man nor woman\n(Just me loving Tomboy)\n\n(G)I-DLE Official YouTube: http://www.youtube.com/gidleofficial\n(G)I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Fansite: https://www.united-cube.com\n\nⓒ All Rights Reserved CUBE Entertainment Inc.\n\n#여자아이들 #GIDLE #I_NEVER_DIE #TOMBOY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jh4QFaPmdss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jh4QFaPmdss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jh4QFaPmdss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jh4QFaPmdss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jh4QFaPmdss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-14T02:53:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Iu9O6A0nKHbTdxQKbX7Dx-nbBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "POe9SOEKotk"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-16T03:39:00Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Shut Down’ M/V",
+        "description": "BLACKPINK - ‘Shut Down’\n\nBlackpink in your area\nBlackpink in your area\n\n컴백이 아냐 떠난 적 없으니까\n고개들이 돌아 진정해 목 꺾일라\n분홍빛의 얼음 drip drip drip freeze ‘em on sight\nShut it down what what what what\n\n게임이 아냐 진 적이 없으니까\n짖어봐 네 목에 목줄은 내 거니까\n땅바닥에 닿은 pedal we go two zero five \nShut it down uh uh uh uh\n\n초록 비를 내려 머리 위로 Don’t trip, baby\n겸손하게 그냥 앉아있어 Just sit, baby\n\nPraying for my downfall, many have tried, baby\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it’s a shutdown\n간판 내리고 문 잠가 shut down\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\nIt’s black and it’s pink once the sun down\n\nWhen we pull up you know it’s a shutdown\n간판 내리고 문 잠가 shut down\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \nKeep watching me shut it down \n\nNah\nYou don’t wanna be on my bad side that’s right I’m slidin’ through\nBunch of wannabes that wanna be me, me three if I was you\nBeen around the world, pearls on ya girl, VVS's we invested uh\nNeed a lesson see the necklace, see these dresses \nWe don’t buy it we request it uh\n\nA rockstar, a popstar but rowdier\nSay bye to the paparazzi, get my good side, I'll smile for ya\nKnow it ain’t fair to ya, it’s scarin’ ya like what now\nBlackpink in your area, the area been shut down. It’s a shutdown\n\n네 다음 답안지야 똑바로 봐 don’t sleep baby\n뒤집어봐 이건 가격표야 ain’t cheap baby\n\nStay in your own lane ‘cause I’m ‘bout to swerve\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it’s a shutdown\n간판 내리고 문 잠가 shut down\n\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\n\nIt’s black and it’s pink once the sun down\n\nWhen we pull up you know it’s a shutdown\n간판 내리고 문 잠가 shut down\n\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \n\nKeep watching me shut it down\n\nShut it down Blackpink in your area\nShut it down woah woah woah woah\nShut it down Blackpink in your area\nKeep talking we shut you down\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttps://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL/\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK #ShutDown #MV \n#20220916_12amEST #20220916_1pmKST #OutNow #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/POe9SOEKotk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/POe9SOEKotk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/POe9SOEKotk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/POe9SOEKotk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/POe9SOEKotk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-16T03:39:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9HaGiWZtv4atVZMb-jV0Qn0A650",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x_7dzdyfyi4"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T10:23:19Z",
+        "channelId": "UCPp2tqBy3QVLLE64SpgKDnw",
+        "title": "LE SSERAFIM (르세라핌)- ANTIFRAGILE [교차편집/ Stage Mix]",
+        "description": "#르세라핌 #교차편집 #ルセラフィム",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_7dzdyfyi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_7dzdyfyi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_7dzdyfyi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x_7dzdyfyi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x_7dzdyfyi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "팬튜브 - 아이돌 교차편집",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T10:23:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9DAGRHYGexX5qTnIMxXIrW_d4cQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXCBiF67jLM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T12:02:40Z",
+        "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+        "title": "TAEYANG - 'VIBE (feat. Jimin of BTS)' M/V",
+        "description": "https://taeyang.lnk.to/VIBE\n\nTAEYANG - 'VIBE (feat. Jimin of BTS)' M/V\n\n\n말론 표현할 수 없지만\nGirl, You gotta know you got that vibe\n네 미소는 Fine Art\n내 영혼을 깨워\nYou got me feelin’ so right yeah \nIt’s a vibe \n\nYeah eh\nThis gon’ be the one and only theme song\n너에게만 고정된 내 시선\n내겐 너란 하나뿐인 Mission\n불가능은 없어 Baby lights camera action\n나란 음악 위에 너는 Topline \n너란 도시 위에 나는 Skyline \n넌 내 영화 속에 Highlight \n어두운 밤하늘 끝에 Twilight\nJust gets better\n너를 처음부터 정주행하고 싶은 매력 \nYou don’t know I want your love (know I want your love)\n이 밤이 끝나기 전에 Baby\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지\nLook at me, look at me, 느낌이 나지\nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지 \n느낌이 와 It’s a vibe\n\nThis gon’ be the one and only Anthem \n감각적이야 Sixth sense 반전\n짜릿해 손만 잡아도 감전\n너를 만나기 전까지 내 세상은 암전\n나란 무대 위에 너는 Spotlight \n너란 한강 위에 나는 남산\n더 완벽할 순 없잖아\n어두운 밤하늘 끝에 Twilight\nI could feel it\n너란 공간에 갇혀버렸어 You’re my Matrix\nYou don’t know I want your love (know I want your love)\n이 밤이 끝나기 전에 Baby\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지\nLook at me, look at me, 느낌이 나지\nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지\n느낌이 와 It’s a vibe\n\nLook at the stars\n밝게 빛나는 달\nAll through the night\n우릴 비춰주고 있잖아\n\n날 보는 너의 눈빛과 \n진동을 계속 느끼고 싶어\n(You gotta know you got that vibe)\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지 \nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지\n느낌이 와 It’s a vibe\n\n\nMore about TAEYANG @\nhttps://www.instagram.com/__youngbae__/\nhttps://www.facebook.com/TAEYANG\nhttps://twitter.com/Realtaeyang\nhttps://youtube.com/@TAEYANG_Official\nhttps://www.tiktok.com/@taeyang\n\n#VIBE #바이브\n#TAEYANG #태양 #Jimin #지민\n#THEBLACKLABEL #더블랙레이블",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cXCBiF67jLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBLACKLABEL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T12:02:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q4zvkuOeXvLcQDOOX24ubXI2acE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QfIY1r0_tRI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T08:34:12Z",
+        "channelId": "UC8GmeiLd5xjh2j5VmdePWQw",
+        "title": "비비 (BIBI) - 나쁜년 (BIBI Vengeance) Official M/V",
+        "description": "비비 (BIBI) - 나쁜년 (BIBI Vengeance) Official M/V\n\n#나쁜년 #BIBIVengeance #feelghoodmusic \n#비비 #BIBI #nakedbibi \n\nBIBI Socials\n- Instagram : https://www.instagram.com/nakedbibi/\n- Twitter : https://twitter.com/nakedbibi\n- TikTok : https://www.tiktok.com/@nakedbibi\n\nFeel Ghood Socials\n - Instagram : https://www.instagram.com/feelghoodmusic/\n - Website : http://www.feelghood.com/​ \n - Facebook : https://www.facebook.com/Feelghood\n\nSong Lyrics by 비비 (BIBI)\nComposed by THE NEED, 비비 (BIBI)\nArranged by THE NEED\nRecorded by 박재선 (Jason Park) at FeelGhoodStudio \nMixed by Konrad OldMoney c/o Vintage Currency Inc\nMastered by Mike Bozzi at Bernie Grundman Mastering\n\na film by SEGAJI\n\r\rDirected & Written by Kim Hyunsoo\nAdditional Concept Creation by BIBI\n\nStarring BIBI, Hyun Bongsik, Kim Daemyung, Park Sehyun, Aiki (with HOOK)\n\nAssistant Director: Lee Seoyun\nProducer: Yi Chae\nProduction Assistant: Yoon Wonsung, Sim Hyunsoo, Lee Jihoon\n-\nDirector of Photography: Lee Hangyeol\n1st AC: Baik Sunghye, Ko Kyungeun\n2nd AC: Shin Jaehyeop\n3rd AC: Kim Yongjin\nDIT: Park Sangwook\n-\nGaffer: Jeong Junghyuk (VIT Light)\nLighting Crew: Kim Hyunsuk, Baek Minhyeok, Chung Hwayong, Yoo Seungheon, Sin Dongyun, Cho Juhan\n-\nArt Director: Yun Insol, Park Heeju (MOLE)\nArt Team: Park Chan, Kim Sunghun, Bang Sumin, Kang Jongmin\n-\nJimmy Jib: Kim Youngjung\nJimmy Jib Crew: Kim Hyunin, Kim Byoungjong\n-\nSound Recordist: Back Shinhyuk\nSound Design: Kim Youhoon\n-\nD.I: LUCID COLOUR\nColorist: Kwak Haewon\nD.I Crew: Lee Seonyoung, Park Sujeong, Kim Daseul, Jo Dongwoo\nD.I Producer: Kim Onew\n-\nCasting Director: RA\nTattooist: Brownpeanut\nWalk-on: W Jay, Kim Bongsu, Hong Changwoo, Hojoon Jung, Yoon Jinwon, Bakusung, Gi Lee, Uzi, Nobbakku, Ra Jeongwon, Hong Seonggeon, Park Junwhan, Brownpeanut, Jumbo Kim\n-\nDrift Car: Suh Seungwan\nDrift Car Driver: Cho Sunhee\nProp Car: Bae Jaeho\n-\nVisual Director: Gahyeon Katherine Lee\nStyling: Lee Women\nHair: Hwang Sinuk\nMake-up: Wang Bitna\nNail: Oh Sojin\n-\nBTS Photographer: Injun Park\nBTS Videographer: Junseong Lim\n\nFEELGHOOD MUSIC\n\nC.E.O : TIGER JK , YOONMIRAE\nChief Advisor : Suh Byunghoo, Kim Sungae\nCreative Advisor : Park Young Woong \nCreative Director: Marshall Bang\nA&R: Gahyeon Katherine Lee\nArtist Management : Yoo Inseon, Lee Taero, Oh Sangchoul \nInternal Stylist : Yu Eunyoung \nGeneral Director : Kim Jung-il\nMusic Producer : Park Jaesun, Zoey Cho, MRSHLL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfIY1r0_tRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfIY1r0_tRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfIY1r0_tRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QfIY1r0_tRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QfIY1r0_tRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BIBI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T08:34:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YEGrVtHtZ5hxzfHntnb5MuiSvhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n0j5NPptyM0"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-02T05:09:06Z",
+        "channelId": "UC8whlOg70m2Yr3qSMjUhh0g",
+        "title": "Kep1er 케플러 | ‘WA DA DA’ M/V",
+        "description": "Kep1er 케플러 | ‘WA DA DA’  M/V \n\n2022.1.3(MON) 6PM(KST)\n\nCheck Out The 1st Mini Album 'FIRST IMPACT' on \n: https://orcd.co/first_impact\n\nKep1er Official \nInstagram : https://www.instagram.com/official.kep1er/\nTwitter : https://twitter.com/official_kep1er\nFacebook : https://www.facebook.com/official.kep1er\nTikTok : https://www.tiktok.com/@official_kep1er/\nV LIVE : https://www.vlive.tv/channel/82CF8D\nFan Cafe : https://cafe.daum.net/kep1er.offcl\n\n#Kep1er #케플러\n#WADADA #FIRST_IMPACT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0j5NPptyM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0j5NPptyM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0j5NPptyM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n0j5NPptyM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n0j5NPptyM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kep1er",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-02T05:09:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sSB3HZ6dGRkSI6zP9WW8HhftajM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQlMMD8auMs"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T02:32:17Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - ‘Pink Venom’ M/V",
+        "description": "BLACKPINK - ‘Pink Venom’\n\nKick in the door Waving the coco \n팝콘이나 챙겨 껴들 생각 말고\nI talk that talk Runways I walk walk \n눈 감고 pop pop 안 봐도 척 \n\nOne by one then Two by two\n내 손끝 툭 하나에 다 무너지는 중\n가짜 쇼 치곤 화려했지\nMakes no sense You couldn’t get a dollar outta me\n\n자 오늘 밤이야 난 독을 품은 꽃\n네 혼을 빼앗은 다음 Look what you made us do \n\n천천히 널 잠재울 FIRE 잔인할 만큼 아름다워 \n\nI bring the pain like \n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nBlack paint and ammo, got bodies like Rambo\nRest in peace, please light up a candle\nThis da life of a vandal, masked up and I’m still in Celine\nDesigner crimes or it wouldn’t be me\n\nDiamonds shinin’ drive in silence I don’t mind it I’m ridin’ \nFlyin’ private side by side with da pilot Up in the sky \nAnd I’m wildin’, stylin’ on them and there’s no chance\nCuz we got bodies on bodies like this a slow dance \n\n자 오늘 밤이야 난 독을 품은 꽃\n네 혼을 빼앗은 다음 Look what you made us do \n\n천천히 널 잠재울 FIRE 잔인할 만큼 아름다워 \n\nI bring the pain like\n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet ‘em, get ‘em, get ‘em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\n원한다면 provoke us\n감당 못해 and you know this\n\n이미 퍼져버린 shot that potion 네 눈앞은 핑크빛 ocean\n\nCome and give me all the smoke 도 아니면 모 like I’m so rock and roll \n\nCome and give me all the smoke 다 줄 세워 봐 자 STOP DROP\n\nI bring the pain like\n\nLa tatata La tatata La tatata La tatata \nLa tatata La tatata \n\nStraight to ya\nStraight to ya\nStraight to ya dome like\n\nLa tatata La tatata La tatata La tatata\nLa tatata La tatata\n\nI bring the pain like \n\n00:00 Pink Venom\n01:56 Join the #PinkVenomChallenge \n02:11 Only on YouTube Shorts \n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV \n#20220819_12amEST #20220819_1pmKST #OutNow #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T02:32:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VXDakb92NfecSssNr5BZjbhlCK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Km71Rr9K-Bw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T05:55:42Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'Ditto' Performance Video",
+        "description": "NewJeans (뉴진스) 'Ditto' Performance Video\n\nProducer: MIN HEE JIN\nPerformance Video Direction: Yemin Kim\nPerformance Video Director: Jakyoung Kim\nPerformance Director: EunJu Kim, YoungHoo Kim\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T05:55:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_trcIV0u2nhJnyVd2cHiU88p7RA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCO7f0SmrDc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-17T03:30:24Z",
+        "channelId": "UCritGVo7pLJLUS8wEu32vow",
+        "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
+        "description": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video\n\nComposed by 소연, Pop Time, Kako\nLyrics by 소연\nArranged by Pop Time, Kako, 소연\n\nWhy you think that ’bout nude\n’Cause your view’s so rude\nThink outside the box\nThen you’ll like it\n\nHello my name is 예삐 예삐요\n말투는 멍청한 듯 몸매는 섹시 섹시요\n그럼 다이아 박힌 티아라 하나에\n내가 퍽이나 웃게 퍽이나 웃게\n\n뒤틀려버린 로렐라이 Don’t need no man\n철학에 미친 독서광 Self-made woman\n싸가지없는 이 Story에 무지 황당한\n야유하는 관객들 You tricked me you’re a liar\n\n아 발가벗겨져 버린 Movie star\n아 별빛이 깨져버린 밤\n꼴이 볼품없대도 망가진다 해도\n다신 사랑받지 못한대도\n\nYes I’m a nude\nNude 따따랏따라\nYes I’m a nude\nNude I don’t give a love\n\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\n\n(Ouch!)\n실례합니다 여기 계신 모두\n야한 작품을 기대하셨다면\nOh I’m sorry 그딴 건 없어요\n환불은 저쪽 대중은 흥미 없는 정보\n그 팝콘을 던져도 덤덤\n행복과 반비례 평점\nBut my 정점 멋대로 낸 편견은 토할 거 같지\n\n아 발가벗겨져 버린 Movie star\n아 더 부끄러울 게 없는 밤\n꼴이 볼품없대도 어쩌면 네게도\n다신 사랑받지 못한대도\n\nYes I’m a nude\nNude 따따랏따라\nYes I’m a nude\nNude I don’t give a love\n\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\nBaby how do I look, how do I look\n아리따운 날 입고 따따랏따라\n\nUm ha um ha um ha um\nYes I'm a nude\nYes I'm a nude\nNow I draw a luxury nude\n\nWhy you think that ’bout nude\n’Cause your view’s so rude\nThink outside the box\n까고 말해\n\n아리따운 나의 누드\n아름다운 나의 누드\nI’m born nude\n변태는 너야\nRude\n\nNude",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fCO7f0SmrDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-17T03:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LskS70vml8ntxfvqI-LJ1v-0Tp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DiGnWwgLAfE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T06:56:48Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "LE SSERAFIM (르세라핌) 'FEARLESS -Japanese ver.-' OFFICIAL M/V",
+        "description": "Creative Directror : NU KIM\n\nVisual Creatvie : Yujoo Kim, Gabriel Cho, Yoon Cho, Sungwoong Moon, Yoovin Baek\n\nA&R : Kyuyoung Kim, Sewon Kim, Yujeong Kim\n\nPerformance Directing : Soyeon Park\nAssistant Directing : Soyoung Yoon\n\n\nDirector : Soonsik Yang\nAssistant Director : Jongyeop Ki m, Yubin Han\n\nProducer : Emma Sungeun Kim (GE Production)\nProduction Assistant : Hyo-seok Kim, Seungwon Choi\n\nDirector of Photography : Sangwoo Yun\nFocus Puller : Sungju Min\n2nd AC : Jimin Kim\nDIT : Minju Yu\n3rd AC : Yeoeun Ahn, Jungeun Lee\n\nGaffer : Hyuk Park\nLighting Crew : Wonik Lee, Jihyun Choi, Seounghyuk Kim, Junha Ye, Heejune Lim\n\nArt director : Boram Jung (RAMI)\nArt Team : Hongyee Kim (RAMI), Sohee Moon (RAMI)\nSet decorator : Sehyun Kong, Seoah Kim, Chaeyoung Song, Sangjune Lee, SeokHui Han\n\nJimmy Jib Operator : Dongjin Lee (jimmyjib_motion)\nJimmy Jib Assistant : Jeonghyun Yoo, Sungeum Jung\n\n2D VFX : Hyunah Cha\n3D VFX : Jaeyoung Kim (NEVV), Junghyun Heo (NEVV)\n\nDI : LUCID COLOUR\nColorist : Jiyun Yeom\nDI Crew : Somi Na, Suhyeon Bae, Mirim Lee, Jiwon Seo, Eunseo Choi, Hyeonsong Ko\nDI Producer : Onew Kim\n\nConnect with LE SSERAFIM\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK  https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiGnWwgLAfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiGnWwgLAfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiGnWwgLAfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DiGnWwgLAfE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DiGnWwgLAfE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T06:56:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cjp10_gUifPn5ZD7_XmimxJw7uw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_z-MPuOIBoM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-14T13:47:17Z",
+        "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+        "title": "Stray Kids \"CASE 143\" Performance Video",
+        "description": "Stray Kids(스트레이 키즈) \"CASE 143\" Performance Video\n\n💗Listen to ＜MAXIDENT＞ now!\n⚡http://Stray-Kids.lnk.to/MAXIDENT \n\nStray Kids \"MAXIDENT\"\niTunes & Apple Music: https://stray-kids.lnk.to/MAXIDENT/AppleMusic\nSpotify: https://stray-kids.lnk.to/MAXIDENT/Spotify\n\nStray Kids Official YouTube: https://www.youtube.com/c/StrayKids\nStray Kids Official Facebook: https://www.facebook.com/JYPEStrayKids/\nStray Kids Official Instagram: https://www.instagram.com/realstraykids/\nStray Kids Official Twitter: https://twitter.com/Stray_Kids\nStray Kids Official TikTok: https://www.tiktok.com/@jypestraykids\nStray Kids Official Fan's: https://fans.jype.com/StrayKids\n\n#StrayKids #스트레이키즈\n#CASE143\n#MAXIDENT\n#StrayKidsComeback\n#YouMakeStrayKidsStay\n\nCopyrights 2022 ⓒ JYP Entertainment. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_z-MPuOIBoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_z-MPuOIBoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_z-MPuOIBoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_z-MPuOIBoM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_z-MPuOIBoM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stray Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-14T13:47:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4uxh4J6HPAmh5ZlnSpafNrJCrNg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f5_wn8mexmM"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-30T02:39:54Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "TWICE \"The Feels\" M/V",
+        "description": "TWICE \"The Feels\" M/V\n\nTWICE's 1ST Full English Single \"The Feels\"\nReleased on 10.01_FRI , 0AM (EST) 1PM (KST)\n\n📌Listen “The Feels” HERE👇✨\nhttps://twice.lnk.to/the-feels\n \nTWICE Official Shop: https://TWICE.lnk.to/Shop \nTWICE Official YouTube: http://www.youtube.com/c/TWICE \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE \nTWICE Official Twitter: http://www.twitter.com/JYPETWICE \nTWICE Official TikTok https://www.tiktok.com/@twice_tiktok_official\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM \nTWICE Official Homepage: http://TWICE.jype.com \nTWICE Official Fan's: http://fans.jype.com/TWICE \n\nⓒ 2021 JYP Entertainment. All Rights Reserved\n\n#TWICE #TheFeels #GetTheFeelsWithTWICE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5_wn8mexmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-30T02:39:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1GVDcxiFpL6i1mRuBFKV-xXEN3w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "32si5cfrCNc"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-02T13:11:19Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - 'How You Like That' DANCE PERFORMANCE VIDEO",
+        "description": "▶️ MORE INFO ABOUT DANCE COVER CONTEST : https://bit.ly/2Z2UBy6\n\n#BLACKPINK #블랙핑크 #HowYouLikeThat #PreReleaseSingle #DANCE_PERFORMANCE_VIDEO #안무영상 #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32si5cfrCNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32si5cfrCNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32si5cfrCNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32si5cfrCNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32si5cfrCNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-02T13:11:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lDiVuerFxeL_tlV1Sbjh4NwVgXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "11cta61wi0g"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-17T04:51:57Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+        "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/11cta61wi0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-17T04:51:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CB66ASnrDK-Gzkp8-UEIxgQeQKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fE2h3lGlOsk"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-08T05:04:06Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "ITZY \"WANNABE\" M/V @ITZY",
+        "description": "👑 𝐈𝐓𝐙𝐘 \"𝐂𝐇𝐄𝐂𝐊𝐌𝐀𝐓𝐄\" 𝐏𝐑𝐄-𝐒𝐀𝐕𝐄 & 𝐏𝐑𝐄-𝐎𝐑𝐃𝐄𝐑\nhttps://itzy.lnk.to/CHECKMATE\n\n👑 ALBUM RELEASE\n2022.7.15 FRI 1PM(KST) | 0AM(EST)\n\nITZY \"WANNABE\" M/V\n\nITZY \"WANNABE\" Listen here: \n🎬 YouTube https://youtu.be/fE2h3lGlOsk\n🎧 Spotify https://spoti.fi/3Pi13t3\n🎧 Apple Music https://apple.co/3l2CL8y\n🎧 MelOn https://kko.to/rpNohHkjH\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITzME #WANNABE\n\nCopyrights 2022 ⓒ JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE2h3lGlOsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE2h3lGlOsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE2h3lGlOsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE2h3lGlOsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-08T05:04:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OgWLHyPkwg1qENt6Lv7Xkv7lPpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F0B7HDiY-10"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T07:21:57Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 'After LIKE' MV",
+        "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T07:21:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uTE008bKW6Wx4s0ONzp024flTrQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z1-mAAAe6U4"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-26T08:15:14Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "(Full Focused) LE SSERAFIM(르세라핌) 'ANTIFRAGILE' 4K | BE ORIGINAL",
+        "description": "[BE ORIGINAL] LE SSERAFIM 'ANTIFRAGILE' (Full Focused)\n[비 오리지널] 르세라핌 'ANTIFRAGILE' (Full Focused)\n\n📺COME AND SEE 📺\n[#BEORIGINAL] LE SSERAFIM(르세라핌) 'ANTIFRAGILE'\nhttps://youtu.be/qORaYudQ7Zc\n\n#LE_SSERAFIM #르세라핌 #BEORIGINAL\n\nStream various performance video on STUDIO CHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z1-mAAAe6U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z1-mAAAe6U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z1-mAAAe6U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z1-mAAAe6U4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z1-mAAAe6U4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-26T08:15:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "obOPzNrgU9yO3Knu8SRBOOhh4EA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P9tKTxbgdkk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-26T17:48:14Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV",
+        "description": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV\n\nCredits:\nDirected by STUDIO SACCHARIN\n\n[SACCAHRIN]\nDirector : KWON YONG SOO\nProducer: YU JUN YOUNG\nAssistant Director : YOO WON SIK, SON SEO YOUNG\nEditor : GWON HEE GYEONG\nAssistant Editor : KIM CHAE HYUN\n\n[WASSUB]\nProducer : LEE SUB (WASSUB), KWAK SO MANG\n\nLocal production : BALI PROD\n\nDOP : LIM CHI HOON\n1ST  : PARK HYUN JUN\n2ND : KIM KWANG MO\nDATA MANAGER : HO JEONG PIL\n3RD : PARK GA EUL\n\nGaffer : KWON HOON HO\n1ST : KIM DAE JIN\n2ND : KANG BYUNG GOO\n3RD : KIM MIN SEO\n4TH : NOH HYUNG WOO\n4TH : HAN JAE YOUNG\n\nJimmy Jib | LEE DONG JIN\n1ST : LEE JI YONG\n2ND : YOO JEONG HYUN\n3RD : JUNG SUNG EUM\n\nArtdirector : PARK CHUL YOUNG (crois.sance)\nArtteam leader : JUNG HEE\nArt team : \nKIM JONG MIN \nLEE J D\nEOM EUN IE\nKIM SUNG HAE \nLEE SOO JIN\n\nDI : LUCID COLOUR\nColorist : KWAK HAE WON\nDI Crew : LEE SEON YOUNG, PARK SU JEONG, KIM DA SEUL, JO DONG WOO\nDI producer : KIM ONEW\n\nCG/VFX : @memudworks\n\nYANG SI WOOK, PARK KUN WOO, JO MIN JOO\n\nConnect with TOMORROW X TOGETHER:\nhttps://ibighit.com/txt\nhttps://twitter.com/TXT_bighit\nhttps://twitter.com/TXT_members\nhttps://www.facebook.com/TXT.bighit\nhttps://www.instagram.com/txt_bighit\nhttps://www.tiktok.com/@txt.bighitent \nhttps://weverse.io/txt\nhttps://www.weibo.com/TXTbighit\nhttps://space.bilibili.com/3493085912763265/\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n#TheNameChapter #TEMPTATION #SugarRushRide #투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-26T17:48:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Qei4P5E0srm3bdqijmgRJoLUAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4UEJePR0UE"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-24T04:28:46Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.2)",
+        "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.2)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4UEJePR0UE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-24T04:28:46Z"
+      }
+    }
+  ]
 }

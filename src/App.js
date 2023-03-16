@@ -4,6 +4,8 @@ import "./App.css";
 import SearchHeader from "./components/SearchHeader";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { YoutubeApiProvider } from "./context/YoutubeApiContext";
+import React from "react";
+import { SpreadSheets } from "@grapecity/spread-sheets-react";
 
 const queryClient = new QueryClient();
 
