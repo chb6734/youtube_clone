@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Youtube_Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> 유튜브 클론 프로젝트
 
-## Available Scripts
+# 배포 주소
 
-In the project directory, you can run:
+> **Frontend :** https://cozy-sfogliatella-f29678.netlify.app
 
-### `yarn start`
+## 프로젝트 소개
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+유튜브 API를 사용하여 유튜브의 검색기능, 추천동영상, 동영상 상세 페이지 등을 구현한 프로젝트입니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 시작 가이드
 
-### `yarn test`
+### Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+$ git clone https://github.com/chb6734/youtube_clone.git
+$ cd youtube_clone
+```
 
-### `yarn build`
+### Frontend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+$ yarn install
+$ yarn start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Stacks 💻
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Environment
 
-### `yarn eject`
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Config
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Development
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Learn More
+## 화면 구성 📺
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+|                                                                                    홈 화면                                                                                    |                                                                               동영상 세부 화면                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img width="329" src="https://res.cloudinary.com/doqdsre2t/image/upload/v1681657759/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-04-17_%EC%98%A4%EC%A0%84_12.07.11_kvbubh.png"/> | <img width="329" src="https://res.cloudinary.com/doqdsre2t/image/upload/v1681657759/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-04-17_%EC%98%A4%EC%A0%84_12.07.24_uo0hcj.png"/> |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## |
 
-### Code Splitting
+## 주요 기능 📦
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### ⭐️ 홈화면 추천 영상 목록 조회
 
-### Analyzing the Bundle Size
+- (검색창에 내용이 없을 때) API를 사용하여 인기동영상 리스트 조회
+- (검색창에 내용이 있을 때) API를 사용하여 검색 내용에 해당하는 리스트 조회
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### ⭐️ 동영상 세부 내용 표시
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- API를 사용하여 선택한 동영상의 세부 내용 표시
+- 오른쪽 리스트에 API를 사용하여 선택된 동영상과 관련된 동영상 조회
